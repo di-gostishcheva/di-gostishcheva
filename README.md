@@ -6,8 +6,7 @@
 <div class="container">
     <h1 align="center">Hello there! <img src = "https://github.com/di-gostishcheva/di-gostishcheva/blob/main/media/hello.gif?raw=true" width = 30px></h1>
     <img src="https://github.com/di-gostishcheva/di-gostishcheva/blob/main/media/giphy.gif?raw=true" align="right">&nbsp;
-    <h4>I'm Diana. I have successfully completed professional retraining in Data Science. Currently, I am practicing my hard skills in the </h4> <a href="https://karpov.courses/simulator-ml">SimulatorML</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pink%20Heart.png" alt="Pink Heart" width="25" height="25" />. <h4>I'm passionate about Machine Learning ❤.</h4>
-    <h4>Now I focus on Computer Vision and NLP.  I love transformers, encoders and many other things.</h4>
+    <h4>I'm Diana. I have successfully completed professional retraining in Data Science.</h4>
 </div>
 
 <br><br>
@@ -17,7 +16,6 @@
 <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25"/> My Tech Stack: </h4>
 
 [![Python][Python]][Python-url]
-[![Docker][Docker]][Docker-url]
 [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
 [![Clickhouse][Clickhouse]][Clickhouse-url]
 [![scikit-learn][scikit-learn]][scikit-learn-url]
@@ -29,9 +27,7 @@
 [![SciPy][SciPy]][SciPy-url]
 [![Apache Airflow][Apache Airflow]][Apache Airflow-url]
 [![Redash][Redash]][Redash-url]
-[![FastAPI][FastAPI]][FastAPI-url]
-[![pytest][pytest]][pytest-url]
-[![GitLab][GitLab]][GitLab-url]
+
 </div>
 
 <br>
@@ -44,18 +40,6 @@
 <div align="center">
 <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> Ask me </h4>
 </div>
-
-<br>
-
-<div align="center">
-    <a href="https://t.me/DianaMGost">
-        <img src="https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
-        <a href="https://discordapp.com/users/985567719803994172/">
-        <img src="https://img.shields.io/badge/Discord-0b0038?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-
-<br>
 
 <div id="header" align="center">
 <img src=https://github.com/di-gostishcheva/di-gostishcheva/blob/main/media/%3F.gif?raw=true="450"/>
