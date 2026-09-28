@@ -38,10 +38,6 @@
 <p> </p>
 
 
-<div id="header" align="center">
-<img src=https://github.com/di-gostishcheva/di-gostishcheva/blob/main/media/%3F.gif?raw=true="450"/>
-</div>
-
 <img src="https://github.com/di-gostishcheva/di-gostishcheva/blob/main/media/glowing_line.gif?raw=true">
 <br>
 
