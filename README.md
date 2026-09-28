@@ -37,9 +37,6 @@
 
 <p> </p>
 
-<div align="center">
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> Ask me </h4>
-</div>
 
 <div id="header" align="center">
 <img src=https://github.com/di-gostishcheva/di-gostishcheva/blob/main/media/%3F.gif?raw=true="450"/>
