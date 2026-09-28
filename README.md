@@ -1,8 +1,3 @@
-<div id="header" align="center">
-<img src=https://github.com/di-gostishcheva/di-gostishcheva/blob/main/media/space.gif?raw=true" width="450"/>
-</div>
-
-
 <div class="container">
     <h1 align="center">Hello there! <img src = "https://github.com/di-gostishcheva/di-gostishcheva/blob/main/media/hello.gif?raw=true" width = 30px></h1>
     <img src="https://github.com/di-gostishcheva/di-gostishcheva/blob/main/media/giphy.gif?raw=true" align="right">&nbsp;
