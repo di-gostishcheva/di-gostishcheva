@@ -48,21 +48,6 @@
 <img src="https://github.com/di-gostishcheva/di-gostishcheva/blob/main/media/glowing_line.gif?raw=true">
 <br>
 
-## My Statistics
-
-
-[![di-gostishcheva's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=di-gostishcheva&custom_title=Diana's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=00BAE9&point=EE4779&title_color=EE4779&color=C9D1D9)](https://github.com/di-gostishcheva/github-readme-activity-graph)
-<br>
-
-<br>
-
-<img src="https://github.com/di-gostishcheva/di-gostishcheva/blob/main/media/glowing_line.gif?raw=true">
-
-<br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di-gostishcheva)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
